@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星が綺麗な夜",
+  "base_artist": "Smile hat",
+  "createdAt": "2026-02-18T08:33:30.954139Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星が綺麗な夜",
+      "artist": "Smile hat",
+      "has_synced": false,
+      "path": "select/pl_01_星が綺麗な夜_Smile_hat.txt"
+    }
+  ]
+}
